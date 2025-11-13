@@ -1,4 +1,4 @@
-﻿# proofoflove.pls
+# proofoflove.pls
 
 Type: PulseDomain (pls)
 
